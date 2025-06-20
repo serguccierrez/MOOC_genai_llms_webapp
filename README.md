@@ -48,8 +48,8 @@ Sigue estos pasos para instalar y ejecutar el proyecto:
 
 Clonar el repositorio
 ```bash
-git clone https://github.com/ging-moocs/MOOC_LLMs_mod2_ejemplo.git
-cd MOOC_LLMs_mod2_ejemplo
+git clone https://github.com/serguccierrez/MOOC_genai_llms_webapp
+cd MOOC_genai_llms_webapp
 ```
 Crear y activar un entorno virtual
 ```bash
@@ -74,8 +74,8 @@ Follow these steps to install and run the project:
 
 Clone the repository
 ```bash
-git clone https://github.com/ging-moocs/MOOC_LLMs_mod2_ejemplo.git
-cd MOOC_LLMs_mod2_ejemplo
+git clone https://github.com/serguccierrez/MOOC_genai_llms_webapp
+cd MOOC_genai_llms_webapp
 ```
 Create and activate a virtual environment
 ```bash
